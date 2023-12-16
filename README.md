@@ -19,13 +19,13 @@ JavaScript
 
 functionanimateButton(button) {
 
-button.addEventListener("click", function() {
-
-button.classList.add("active");
-
-setTimeout(function() {
-
-button.classList.remove("active");
+  button.addEventListener("click", function() {
+  
+  button.classList.add("active");
+  
+  setTimeout(function() {
+  
+  button.classList.remove("active");
 
 }, 1000); // Adjust duration as needed
 
@@ -53,13 +53,13 @@ fetch("https://api.example.com/data")
 
 // Do something with the data, like update the UI
 
-console.log(data);
+  console.log(data);
 
 })
 
 .catch(error =\> {
 
-console.error(error);
+  console.error(error);
 
 });
 
