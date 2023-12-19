@@ -111,7 +111,5 @@ Additional Resources:
 - Webflow Developers Docs: [https://developers.webflow.com/](https://developers.webflow.com/)
 - Webflow Custom Code Showcase: [https://webflow.com/made-in-webflow/custom-code](https://webflow.com/made-in-webflow/custom-code)
 
-I hope this provides a helpful starting point for your Webflow custom code and integrations! Feel free to ask if you have any further questions.
-
 # Get help?
 Want to build a [custom webflow page](https://www.epyc.in/)?
